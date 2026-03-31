@@ -17,7 +17,7 @@ Remove AI-generated writing patterns from any text and continuously improve thro
 
 ```bash
 # Clone the repo
-git clone https://github.com/karu-custom/humanizer-karu-custom.git
+git clone https://github.com/calvyntwh/humanizer-karu-custom.git
 
 # Copy to your skills directory
 cp -r humanizer-karu-custom ~/.agents/skills/
@@ -29,7 +29,7 @@ ln -s $(pwd)/humanizer-karu-custom ~/.agents/skills/
 ### For Claude Code
 
 ```bash
-git clone https://github.com/karu-custom/humanizer-karu-custom.git
+git clone https://github.com/calvyntwh/humanizer-karu-custom.git
 cp -r humanizer-karu-custom ~/.claude/skills/
 ```
 
